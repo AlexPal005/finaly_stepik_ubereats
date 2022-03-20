@@ -28,6 +28,7 @@
   justify-content: space-around;
 }
 .text_two_on_card {
+  white-space: nowrap;
   color: #626262;
   padding: 8px 0px 7px 7px;
   font-size: 18px;
